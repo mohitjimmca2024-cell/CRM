@@ -1,4 +1,4 @@
-# Small CRM (PHP + MySQL)
+# CRM (PHP + MySQL)
 
 A compact CRM-style system that focuses on user interaction and admin management. It includes user registration, profile management, ticketing, quote requests, and an admin panel with dashboards, logs, and status controls.
 
